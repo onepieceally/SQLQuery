@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 --DATABASE UZERINDE ANLÝK CALÝSAN SORGULARA ULASABILIRIZ.
+=======
+--DATABASE ÜZERÝNDE ANLIK ÇALIÞAN SORGULARA ULAÞABÝLÝRÝZ.
+>>>>>>> ba375ee0fc0e279d7a6a4289b8cb2b30bcd0eca3
 SELECT * FROM sys.dm_exec_requests WHERE status = 'running'
