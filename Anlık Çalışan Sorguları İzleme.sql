@@ -1,1 +1,3 @@
-SELECT * FROM sys.dm_exec_requests WHERE status = 'running';
+
+--DATABASE UZERINDE ANLÝK CALÝSAN SORGULARA ULASABILIRIZ.
+SELECT * FROM sys.dm_exec_requests WHERE status = 'running'
